@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Santiago\\Desktop\\entregafinal\\Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68248401-5614-4BF6-BEBE-8EDC4DD6CCC1}|Backend\\Backend.csproj|c:\\users\\santiago\\desktop\\entregafinal\\backend\\backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{68248401-5614-4BF6-BEBE-8EDC4DD6CCC1}|Backend\\Backend.csproj|solutionrelative:backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68248401-5614-4BF6-BEBE-8EDC4DD6CCC1}|Backend\\Backend.csproj|c:\\users\\santiago\\desktop\\entregafinal\\backend\\backend\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68248401-5614-4BF6-BEBE-8EDC4DD6CCC1}|Backend\\Backend.csproj|solutionrelative:backend\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68248401-5614-4BF6-BEBE-8EDC4DD6CCC1}|Backend\\Backend.csproj|c:\\users\\santiago\\desktop\\entregafinal\\backend\\backend\\data\\aplicattiondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68248401-5614-4BF6-BEBE-8EDC4DD6CCC1}|Backend\\Backend.csproj|solutionrelative:backend\\data\\aplicattiondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68248401-5614-4BF6-BEBE-8EDC4DD6CCC1}|Backend\\Backend.csproj|c:\\users\\santiago\\desktop\\entregafinal\\backend\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68248401-5614-4BF6-BEBE-8EDC4DD6CCC1}|Backend\\Backend.csproj|solutionrelative:backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68248401-5614-4BF6-BEBE-8EDC4DD6CCC1}|Backend\\Backend.csproj|c:\\users\\santiago\\desktop\\entregafinal\\backend\\backend\\models\\addusuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68248401-5614-4BF6-BEBE-8EDC4DD6CCC1}|Backend\\Backend.csproj|solutionrelative:backend\\models\\addusuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68248401-5614-4BF6-BEBE-8EDC4DD6CCC1}|Backend\\Backend.csproj|c:\\users\\santiago\\desktop\\entregafinal\\backend\\backend\\models\\updateusuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68248401-5614-4BF6-BEBE-8EDC4DD6CCC1}|Backend\\Backend.csproj|solutionrelative:backend\\models\\updateusuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68248401-5614-4BF6-BEBE-8EDC4DD6CCC1}|Backend\\Backend.csproj|c:\\users\\santiago\\desktop\\entregafinal\\backend\\backend\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68248401-5614-4BF6-BEBE-8EDC4DD6CCC1}|Backend\\Backend.csproj|solutionrelative:backend\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68248401-5614-4BF6-BEBE-8EDC4DD6CCC1}|Backend\\Backend.csproj|c:\\users\\santiago\\desktop\\entregafinal\\backend\\backend\\migrations\\20240726233754_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68248401-5614-4BF6-BEBE-8EDC4DD6CCC1}|Backend\\Backend.csproj|solutionrelative:backend\\migrations\\20240726233754_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UpdateUsuarioDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Santiago\\Desktop\\entregafinal\\Backend\\Backend\\Models\\UpdateUsuarioDTO.cs",
+              "RelativeDocumentMoniker": "Backend\\Models\\UpdateUsuarioDTO.cs",
+              "ToolTip": "C:\\Users\\Santiago\\Desktop\\entregafinal\\Backend\\Backend\\Models\\UpdateUsuarioDTO.cs",
+              "RelativeToolTip": "Backend\\Models\\UpdateUsuarioDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T06:16:12.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\Santiago\\Desktop\\entregafinal\\Backend\\Backend\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "Backend\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\Santiago\\Desktop\\entregafinal\\Backend\\Backend\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "Backend\\Controllers\\UsuarioController.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAAABYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T23:39:31.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddUsuarioDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Santiago\\Desktop\\entregafinal\\Backend\\Backend\\Models\\AddUsuarioDTO.cs",
+              "RelativeDocumentMoniker": "Backend\\Models\\AddUsuarioDTO.cs",
+              "ToolTip": "C:\\Users\\Santiago\\Desktop\\entregafinal\\Backend\\Backend\\Models\\AddUsuarioDTO.cs",
+              "RelativeToolTip": "Backend\\Models\\AddUsuarioDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T23:53:16.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240726233754_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\Santiago\\Desktop\\entregafinal\\Backend\\Backend\\Migrations\\20240726233754_Initial.cs",
+              "RelativeDocumentMoniker": "Backend\\Migrations\\20240726233754_Initial.cs",
+              "ToolTip": "C:\\Users\\Santiago\\Desktop\\entregafinal\\Backend\\Backend\\Migrations\\20240726233754_Initial.cs",
+              "RelativeToolTip": "Backend\\Migrations\\20240726233754_Initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T23:37:55.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Santiago\\Desktop\\entregafinal\\Backend\\Backend\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "Backend\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Santiago\\Desktop\\entregafinal\\Backend\\Backend\\Models\\Usuario.cs",
+              "RelativeToolTip": "Backend\\Models\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T23:32:42.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Santiago\\Desktop\\entregafinal\\Backend\\Backend\\Program.cs",
+              "RelativeDocumentMoniker": "Backend\\Program.cs",
+              "ToolTip": "C:\\Users\\Santiago\\Desktop\\entregafinal\\Backend\\Backend\\Program.cs",
+              "RelativeToolTip": "Backend\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAswCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T23:22:19.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AplicattionDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Santiago\\Desktop\\entregafinal\\Backend\\Backend\\Data\\AplicattionDbContext.cs",
+              "RelativeDocumentMoniker": "Backend\\Data\\AplicattionDbContext.cs",
+              "ToolTip": "C:\\Users\\Santiago\\Desktop\\entregafinal\\Backend\\Backend\\Data\\AplicattionDbContext.cs",
+              "RelativeToolTip": "Backend\\Data\\AplicattionDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T23:35:20.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Santiago\\Desktop\\entregafinal\\Backend\\Backend\\appsettings.json",
+              "RelativeDocumentMoniker": "Backend\\appsettings.json",
+              "ToolTip": "C:\\Users\\Santiago\\Desktop\\entregafinal\\Backend\\Backend\\appsettings.json",
+              "RelativeToolTip": "Backend\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-26T23:29:13.38Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
