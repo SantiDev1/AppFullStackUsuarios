@@ -36,7 +36,7 @@ npm install -g @angular/cli
 
 ## Configuración
 
-1. Configura las variables de entorno si es necesario. en el archivo  settings/appsettings.ts
+1. Configura las variables de entorno si es necesario. en el archivo  enviorments/enviorement.ts
 
 export const environment = {
     apiUrl: 'https://localhost:7245/api'
