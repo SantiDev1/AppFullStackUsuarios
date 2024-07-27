@@ -1,0 +1,8 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.toast-error {
+    background-color: #f44336;
+  }

@@ -1,0 +1,45 @@
+<section class="bg-white dark:bg-gray-900">
+  <div class="py-8 px-4 mx-auto max-w-2xl lg:py-16">
+    <h2 class="mb-4 text-xl font-bold text-gray-900 dark:text-white">Detalles del Usuario</h2>
+    <div>
+      <div class="grid gap-4 sm:grid-cols-2 sm:gap-6">
+        <div class="sm:col-span-2">
+          <label  class="block mb-2 text-sm font-medium text-gray-900 dark:text-white">id:</label>
+          <input type="text" 
+                 [value]="user!.id"
+                 class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-primary-600 focus:border-primary-600 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-primary-500 dark:focus:border-primary-500"
+                 placeholder="Id del Usuario" readonly>
+        </div>
+        <div class="w-full">
+          <label  class="block mb-2 text-sm font-medium text-gray-900 dark:text-white">Nombre:</label>
+          <input type="text" [value]="user!.nombre"
+                 class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-primary-600 focus:border-primary-600 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-primary-500 dark:focus:border-primary-500"
+                 placeholder="ejemplo@gmail.com" readonly>
+        </div>
+        <div class="w-full">
+          <label  class="block mb-2 text-sm font-medium text-gray-900 dark:text-white">Email:</label>
+          <input type="email" [value]="user!.email"
+                 class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-primary-600 focus:border-primary-600 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-primary-500 dark:focus:border-primary-500"
+                 placeholder="ejemplo@gmail.com" readonly>
+        </div>
+        <div class="w-full">
+          <label  class="block mb-2 text-sm font-medium text-gray-900 dark:text-white">Edad:</label>
+          <input type="number" 
+              [value]="user!.edad"
+                 class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-primary-600 focus:border-primary-600 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-primary-500 dark:focus:border-primary-500"
+                 placeholder="Edad" readonly>
+        </div>
+        <div class="w-full">
+          <label  class="block mb-2 text-sm font-medium text-gray-900 dark:text-white">Fecha de Nacimiento:</label>
+          <input type="text"
+          [value]="user!.fechanacimiento"
+                 class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-primary-600 focus:border-primary-600 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-primary-500 dark:focus:border-primary-500"
+                 readonly>
+        </div>
+      </div>
+      <button routerLink="/listusuarios" type="button" class="inline-flex items-center px-5 py-2.5 mt-4 sm:mt-6 text-sm font-medium text-center text-white bg-red-600 rounded-lg focus:ring-4 focus:ring-red-200 dark:focus:ring-red-900 hover:bg-red-700">
+          Atras
+      </button>
+    </div>
+  </div>
+</section>
