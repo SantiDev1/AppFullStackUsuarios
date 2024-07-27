@@ -1,27 +1,88 @@
-# FrontendUsuarios
+# Aplicacion web para la creacuin de Usuarios
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.1.
+Nuestra aplicación ofrece una solución intuitiva y eficiente para la creacion de Usuarios. Diseñada para facilitar el proceso tanto para clientes como para profesionales permite gestionar Usuarios de manera cómoda y segura. Con características que optimizan la experiencia del usuario, como la creacion en tiempo real y actualizacion automática, buscamos mejorar el acceso y la visibilidad de los usuarios.
 
-## Development server
+## Tabla de Contenidos
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+1. [Requisitos](#requisitos)
+2. [Instalación](#instalación)
+3. [Configuración](#configuración)
+4. [Uso](#uso)
+5. [Contribución](#contribución)
+6. [Licencia](#licencia)
+7. [Test](#test)
+8. [DocumentacionBackend](#documentacionback)
 
-## Code scaffolding
+## Requisitos
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- Node.js (versión 18.13.0)
+- Angular CLI (versión  17.3.1)
 
-## Build
+## Instalación
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+1. Clona este repositorio:
 
-## Running unit tests
+   ```bash
+   git clone https://github.com/SantiDev1/AppFullStackUsuarios.git
+   cd tu-repositorio
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+2. instala las dependencias usando npm:
+   
+npm install
 
-## Running end-to-end tests
+3. Si es necesario, instala Angular CLI globalmente:
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+npm install -g @angular/cli
 
-## Further help
+## Configuración
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+1. Configura las variables de entorno si es necesario. en el archivo  settings/appsettings.ts
+
+export const environment = {
+    apiUrl: 'https://localhost:7245/api'
+  };
+
+## Uso
+
+Para iniciar la aplicación en modo de desarrollo, ejecuta:
+
+    ```bash
+    ng serve
+
+    Luego, abre tu navegador y visita http://localhost:4200.
+
+    Para construir el proyecto para producción, ejecuta:
+
+    ng build --prod
+
+    Los archivos de salida se generarán en el directorio dist/.
+
+## Contribución
+
+Si quieres contribuir a este proyecto, sigue estos pasos:
+
+1. Haz un fork del repositorio.
+2. Clona tu fork localmente.
+3. Crea una nueva rama para tu contribución:
+
+   ```bash
+   git checkout -b mi-contribucion
+
+   Haz commit de tus cambios:
+
+   git commit -m "Descripción de mi contribución"
+Haz push de tu rama:
+
+git push origin mi-contribucion
+
+## Licencia
+
+Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
+
+## Test
+
+Ejecuta ng test para realizar los respectivos test
+
+## DocumentacionBackend
+
+Visita esta url para ver la documentacion del back end https://drive.google.com/file/d/1_DULVTbGbfydcbUvpb1XI2QIbXEQDRCu/view?usp=sharing
