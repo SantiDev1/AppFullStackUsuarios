@@ -63,7 +63,11 @@ export class EditComponent implements OnInit {
         this.router.navigate(['/listusuarios']);
       },
       error: (err) => {
-         this.toastr.error(err.error.errors.Email[0]);
+         if(err.error.errors.Email[0]){
+          this.toastr.error(err.error.errors.Email[0]);
+        } else {
+          console.error('Error actualizar Usuario')
+        }
       }
     });
   }
